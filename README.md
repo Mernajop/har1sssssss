@@ -26,6 +26,17 @@ Hello! I'm Haris, a blockchain enthusiast and developer with a passion for decen
   - Entagle - [LINK TO VALIDATOR](https://testnet.itrocket.net/entangle/staking/ethmvaloper1nv4jum04jsgvg2hu30yf797zddjs7vjs49jpem)
   - Kyve - [LINK TO VALIDATOR](https://kyve-beta.netlify.app/#/validators/kyve122h0kuz82l03sx79j2vdrcrgf9q3yp58ufc40r)
   - Kyve - [LINK TO VALIDATOR](https://explorer.kyve.network/korellia/staking/kyvevaloper1asvtgrzp9q2lkzeru03rqkwg656nvmf5f8q7ry)
+ 
+## 📚 Guides
+
+I have created several guides to assist others in setting up and managing blockchain nodes. Here are some of them:
+
+- [Kyve Node Installation Guide](https://github.com/har1sssssss/guides/blob/main/kyve-node-guide.md)
+- [Lava Node Installation Guide](https://github.com/har1sssssss/guides/blob/main/lava-node-installation-guide.md)
+- [KV Storage Installation Guide](https://github.com/har1sssssss/0G-Nodes-Haris/blob/main/KV%20Storage.md)
+- [Storage Node CLI Setup Guide](https://github.com/har1sssssss/0G-Nodes-Haris/blob/main/Storage%20Node%20CLI.md)
+- [Storage Node Setup Guide](https://github.com/har1sssssss/0G-Nodes-Haris/blob/main/Storage%20Node.md)
+
 
 ## 🌱 Learning and Growth
 
